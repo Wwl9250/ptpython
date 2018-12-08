@@ -1,0 +1,4 @@
+import math
+s = lambda z,x,c,v : math.sqrt( z+x+c+v)
+s(1,1,1,1)
+
